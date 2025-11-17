@@ -28,3 +28,25 @@ The solution uses the following AWS services:
 ---
 
 ## 📁 **Project Structure**
+
+---
+
+## 🧪 Sample CSV
+
+---
+
+## 🔧 Technologies Used
+
+- AWS Lambda  
+- Amazon S3  
+- DynamoDB  
+- SNS  
+- CloudWatch  
+- Python  
+
+---
+
+## 👨‍💻 Author
+
+Ahmed Hamed  
+Serverless Inventory Lab
